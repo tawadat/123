@@ -5,7 +5,8 @@ public class Gun {
     public static void main(String[] args) {
         Random random = new Random();
         Scanner sc = new Scanner(System.in);
-
+ ///jhgdsjhnv.kmv
+        ////kduhkgub fkl
         int scan;
         int rand = random.nextInt(7);
         boolean win = false;
